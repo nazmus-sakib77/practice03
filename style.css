@@ -1,0 +1,101 @@
+		body{
+            margin: 0;
+			background-color: #f6f3f7;
+            font-family: Arial, Helvetica, sans-serif;
+            
+		}
+
+		.navbar {
+           background-color: #161616;
+           padding-top: 20px;
+           padding-bottom: 20px;
+           overflow: hidden;
+            
+		}
+
+        nav{
+            float: right;
+           
+            
+        }
+
+        nav a {
+           
+        text-decoration: none;
+        font-size: 20px;
+        color: white;
+        margin-right: 80px ;
+    
+        }
+
+
+.search-bar{
+
+    float: left;
+    margin-right: 300px;
+    width: 300px;
+    height: 25px;
+    border-style: hidden ;
+    font-size: 15px;
+}
+		
+
+.header-banner {
+
+    overflow: hidden;
+}
+
+.section-1{
+
+    text-align: center;
+}
+
+.section-1 p {
+
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.underline-1 {
+
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+
+.work-skill{
+
+    color: #274f55;
+    font-size: large;
+
+}
+
+.work-skill progress{
+   
+    box-sizing: border-box;
+    display: inline-block;
+    height: 1.2em;
+    width: 10em;
+    vertical-align: -0.2em;
+}
+
+
+.few-quotes{
+
+    text-align: center;
+}
+
+.photography{
+    text-align: center;
+    
+}
+
+
+
+.photography img{
+
+    
+    overflow: hidden;
+    padding-left: 5px;
+   
+}
